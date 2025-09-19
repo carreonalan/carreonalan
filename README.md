@@ -9,7 +9,7 @@ I enjoy solving problems, building projects, and continuously learning new skill
 - 👯 I’m looking to collaborate on open-source projects, IT support tools, and automation scripts.  
 - 🤔 I’m looking for help with improving my problem-solving skills in algorithms and best practices in DevOps/ITIL.  
 - 💬 Ask me about IT support, troubleshooting, system analysis, Python, and C programming.  
-- 📫 How to reach me: carreonalan37@gmail.com** or connect on https://linkedin.com/in/alan-carreon-089710266.  
+- 📫 How to reach me: carreonalan37@gmail.com or connect on https://linkedin.com/in/alan-carreon-089710266.  
 - 😄 Pronouns: He/Him  
   
 <!--
